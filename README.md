@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Focus-Motion%20Generation-27AE60?style=flat-square" alt="Motion Generation" />
   <img src="https://img.shields.io/badge/Focus-Affordance%20Learning-9B51E0?style=flat-square" alt="Affordance Learning" />
   <img src="https://img.shields.io/badge/Systems-Embodied%20AI-F2994A?style=flat-square" alt="Embodied AI" />
+  <img src="https://img.shields.io/badge/Systems-Embodied%20AI-F24A4F?style=flat-square" alt="Robotics" />
 </p>
 
 <p align="center">
@@ -13,29 +14,26 @@
   <a href="mailto:khk0606@naver.com"><img src="https://img.shields.io/badge/Contact-Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-I study **human–scene interaction, affordance-aware motion generation, and embodied AI**.
+I study **human–scene interaction, affordance-aware motion generation, Robotics, and embodied AI**.
 
-I am an undergraduate in the School of Art and Technology at **Chung-Ang University**, with additional studies in Data Privacy. I participated in the AI·SW Convergence Undergraduate Researcher Program at **CREAL Lab**, advised by **Prof. Taeil Jin**, from July to August 2026.
+I am an undergraduate in the School of Art and Technology at **Chung-Ang University**, with additional studies in Data Privacy as a convergene major. I participated in the AI·SW Undergraduate Researcher Program at **CREAL Lab**, advised by **Prof. Taeil Jin**, from July to August 2026.
 
 My work explores how **language, spatial relationships, and interaction history** can guide motion: not just where an action is possible, but how it should unfold over time. My projects span motion-data pipelines, scene-conditioned generation, robot simulation, and language-model robustness.
 
 ## Research Interests
 
+- Scene-conditioned motion generation with diffusion models
+- Video-to-robot motion transfer and simulation-based control
+- LLM/VLM-based reasoning and decision-making for embodied agents
 - Human–scene interaction and purpose-conditioned affordances
 - Interaction history and temporal representations
-- Scene-conditioned motion generation with diffusion models
 - Teacher adaptation, LoRA, and mixture-of-experts routing
-- Video-to-robot motion transfer and simulation-based control
 
 ## Research
 
 | Work | Focus | Status |
 | --- | --- | --- |
 | [Affordance-aware motion generation](https://khk0606.github.io/research/#affordance-aware-motion-generation) | Purpose, scene geometry, and interaction history for human motion | Ongoing research |
-| [Temporal interaction diagnostics](https://khk0606.github.io/research/#temporal-diagnostics-for-interaction-representations) | Order-information loss in pooled interaction representations | Experimental analysis |
-| [YBot / HumanML263 data pipeline](https://khk0606.github.io/research/#motion-data-processing-and-validation) | Motion conversion, natural trajectories, and data consistency | Validated 162-sequence dataset |
-
-These entries describe research projects and experiments, not peer-reviewed publications.
 
 ## Selected Projects
 
@@ -72,4 +70,4 @@ These entries describe research projects and experiments, not peer-reviewed publ
 
 - Website: [khk0606.github.io](https://khk0606.github.io/)
 - CV: [Download PDF](https://khk0606.github.io/files/CV_HyunkyuKang.pdf)
-- Email: [khk0606@naver.com](mailto:khk0606@naver.com)
+- Email: [khk0606@gamil.com](mailto:khk0606@gamil.com)
