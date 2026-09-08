@@ -70,4 +70,4 @@ My work explores how **language, spatial relationships, and interaction history*
 
 - Website: [khk0606.github.io](https://khk0606.github.io/)
 - CV: [Download PDF](https://khk0606.github.io/files/CV_HyunkyuKang.pdf)
-- Email: [khk0606@gamil.com](mailto:khk0606@gamil.com)
+- Email: [khk0606@gamil.com](mailto:khk0606khk@gamil.com)
