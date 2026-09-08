@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Focus-Motion%20Generation-27AE60?style=flat-square" alt="Motion Generation" />
   <img src="https://img.shields.io/badge/Focus-Affordance%20Learning-9B51E0?style=flat-square" alt="Affordance Learning" />
   <img src="https://img.shields.io/badge/Systems-Embodied%20AI-F2994A?style=flat-square" alt="Embodied AI" />
-  <img src="https://img.shields.io/badge/Systems-Embodied%20AI-F24A4F?style=flat-square" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Systems-Robotics-F24A4F?style=flat-square" alt="Robotics" />
 </p>
 
 <p align="center">
